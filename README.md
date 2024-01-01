@@ -1,8 +1,6 @@
-Certainly! Here's a simple README template for your HTML and CSS calculator project on GitHub:
 
----
 
-# Calculator Project
+# simple-Calculator Project
 
 A basic calculator web application built using HTML and CSS.
 
