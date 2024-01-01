@@ -28,8 +28,8 @@ simple-calculator/
 └── README.md
 ```
 
-- **`index.html`:** Contains the HTML structure of the calculator.
-- **`style.css`:** Provides the styling for the calculator.
+- **`Untitled.html`:** Contains the HTML structure of the calculator.
+- **`Untitled.css`:** Provides the styling for the calculator.
 - **`README.md`:** Documentation for the project.
 
 ## How to Contribute
