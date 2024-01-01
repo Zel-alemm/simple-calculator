@@ -24,9 +24,9 @@ This project implements a simple calculator using HTML for the structure and CSS
 ## Project Structure
 
 ```plaintext
-calculator-project/
-├── untitled.html
-├── untitled.css
+simple-calculator/
+├── Untitled.html
+├── Untitled.css
 └── README.md
 ```
 
